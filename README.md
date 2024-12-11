@@ -8,7 +8,7 @@
 ## ⚡ **Skills**
 - +7 years of experience in software development
 - +4 years working on frontend development (HTML, CSS, JavaScript, React)
-- +1 year of experience in backend development (Node.js, Express, PHP, Laravel)
+- +3 year of experience in backend development (Node.js, Express, PHP, Laravel)
 - Strong knowledge of design patterns, testing tools, and agile methodologies
 - Experienced with modern infrastructures and continuous learning
 - Proficient in English (B2 level)
