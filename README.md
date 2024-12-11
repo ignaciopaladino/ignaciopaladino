@@ -7,7 +7,7 @@
 
 ## ⚡ **Skills**
 - +7 years of experience in software development
-- +4 years working on frontend development (React, Nextjs, Typescript)
+- +5 years working on frontend development (React, Nextjs, Typescript)
 - +3 year of experience in backend development (Node.js, Express, PHP, Laravel)
 - Strong knowledge of design patterns, testing tools, and agile methodologies
 - Experienced with modern infrastructures and continuous learning
