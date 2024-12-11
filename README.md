@@ -2,7 +2,7 @@
 
 🏡 I'm a software developer from Buenos Aires, Argentina.  
 🎓 I hold a degree as a Computer Technician.  
-💻 I am passionate about building efficient and scalable solutions that deliver real impact. I enjoy collaborating on innovative and ambitious projects, bringing value to teams of any size through my adaptability and technical expertise.
+💻 I’m passionate about creating efficient and scalable solutions that make a real difference. I love working on innovative and ambitious projects, where I can contribute my skills and adaptability to help teams achieve their goals.
 
 
 ## ⚡ **Skills**
