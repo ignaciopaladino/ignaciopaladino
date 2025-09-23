@@ -10,7 +10,7 @@
 - +5 years working on frontend development (React, Nextjs, Typescript)
 - +4 year of experience in backend development (Node.js, Nestjs, PHP, Laravel)
 - Strong knowledge of design patterns, testing tools, and agile methodologies
-- Cloud: Hands-on with Google Cloud Platform (GCP)—GKE, Cloud Run, Cloud Functions, Cloud Storage, Pub/Sub, IAM, and Cloud Build.
+- Hands-on with Google Cloud Platform (GCP—GKE), Cloud Run, Cloud Functions, Cloud Storage, Pub/Sub, IAM, and Cloud Build.
 - Experienced with modern infrastructures and continuous learning
 - Proficient in English (B2 level)
 
